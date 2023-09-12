@@ -13,6 +13,9 @@ def print_question_no():
 print_question_no()
 # Write a function to calculate the factorial of a number
 
+# factorial(5) = 5 x factorial(4)
+# factorial(4) = 4 x 3 x 2 x 1
+
 
 def factorial(n):
     if n <= 1:
